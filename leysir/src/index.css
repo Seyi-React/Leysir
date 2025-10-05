@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+body {
+     font-family: "Fira Code", monospace;
+      font-weight: 200;
+  font-style: normal;
+}
